@@ -1,4 +1,4 @@
-# Keybow and Keybow MINI
+# Keybow and Keybow MINI - forked
 
 [Buy Keybow and Keybow MINI here](https://shop.pimoroni.com/?q=keybow)
 
